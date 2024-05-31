@@ -1,1 +1,5 @@
-# Molecular-docking
+![PIC5](https://github.com/anutheresia/Molecular-docking/assets/158802551/ee43fa0c-95b2-4b39-b49b-54b0753c7c3b)
+![PIC4](https://github.com/anutheresia/Molecular-docking/assets/158802551/ff259713-9e14-4327-9af0-80e627e60edf)
+![PIC3](https://github.com/anutheresia/Molecular-docking/assets/158802551/892d8eff-177c-4489-bb81-d961d8efa6f3)
+![PIC2](https://github.com/anutheresia/Molecular-docking/assets/158802551/605ca111-dba4-4ae1-a750-d03e5bd173d6)
+![PIC1](https://github.com/anutheresia/Molecular-docking/assets/158802551/6ae3a619-5da4-4b3a-bec6-5555813932d7)
